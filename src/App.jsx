@@ -8,22 +8,22 @@ const moments = [
   {
     title: "Quando tudo começou",
     text: "O dia em que eu percebi que não poderia deixar essa pessoa maravilhosa sair da minha vida.",
-    image: "/foto1.jpeg",
+    image: "/dia-das-mulheres/foto1.jpeg",
   },
   {
     title: "Alguem que não percebe o quanto é incrível!",
     text: "Uma mulher forte, corajosa, guerreira e de coração ENORME!",
-    image: "/foto4.webp",
+    image: "/dia-das-mulheres/foto4.webp",
   },
   {
     title: "Mudou a minha pra melhor de tantas maneiras",
     text: "Sua alegria contagiante e capacidade de me entender como ninguém me fez perceber que ao seu lado é o meu lugar..",
-    image: "/foto5.webp",
+    image: "/dia-das-mulheres/foto5.webp",
   },
   {
     title: "Você é muito mais importante do que imagina",
     text: "Sua vida é muito valiosa para todos que estão ao seu redor, eu e o Neneji te amamos muito!!",
-    image: "/foto6.webp",
+    image: "/dia-das-mulheres/foto6.webp",
   },
   {
     title: "Hoje",
